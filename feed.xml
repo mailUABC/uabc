@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>AUTH</title>
+    <link href="https://mailUABC.github.io/uabc/feed.xml" rel="self" />
+    <link href="https://mailUABC.github.io/uabc" />
+    <updated>2022-11-21T19:06:59-08:00</updated>
+    <author>
+        <name>uabc</name>
+    </author>
+    <id>https://mailUABC.github.io/uabc</id>
+
+    <entry>
+        <title>intro</title>
+        <author>
+            <name>uabc</name>
+        </author>
+        <link href="https://mailUABC.github.io/uabc/intro.html"/>
+        <id>https://mailUABC.github.io/uabc/intro.html</id>
+
+        <updated>2022-11-21T19:06:59-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://mailUABC.github.io/uabc/media/posts/1/1-cube-food-01.webp" sizes="100vw" srcset="https://mailUABC.github.io/uabc/media/posts/1/responsive/1-cube-food-01-xs.webp 300w ,https://mailUABC.github.io/uabc/media/posts/1/responsive/1-cube-food-01-sm.webp 480w ,https://mailUABC.github.io/uabc/media/posts/1/responsive/1-cube-food-01-md.webp 768w ,https://mailUABC.github.io/uabc/media/posts/1/responsive/1-cube-food-01-lg.webp 1024w ,https://mailUABC.github.io/uabc/media/posts/1/responsive/1-cube-food-01-xl.webp 1360w ,https://mailUABC.github.io/uabc/media/posts/1/responsive/1-cube-food-01-2xl.webp 1600w"  alt="" width="768" height="2423"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
